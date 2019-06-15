@@ -26,5 +26,11 @@ The project is quite large and the error handling isn't the best. Most common Di
 - **Newtonsoft.JS-duh** (Yeah)
 - **Costura + Fody** (Embeds all project references in the Megabot.exe file, so the whole export is one bigger file)
 
+Tested on:
+- Processor: **AMD Ryzen 5 1600 Six-Core Processor (12 CPUs), ~3.2GHz**
+- Memory: **8192MB RAM**
+- Graphics: **NVIDIA GeForce GTX 1060 6GB**
+- DirectX: **12**
+
 ## License
 I'm applying the GNU (General Public License) as described [here](https://raw.githubusercontent.com/raulssorban/Megabot/master/LICENSE).
