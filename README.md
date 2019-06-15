@@ -1,6 +1,6 @@
 ![Logo](https://i.imgur.com/WC1ozTl.png)
 
-A very extensive Discord bot launcher and manager.
+A very extensive Discord bot launcher and manager using Discord.NET
 
 ## Idea
 I love automating my development environment, so I decided to write something very extensive and easy to create Bots and bot Mods and execute them very easily and fast. There is also support for game mods.
@@ -17,6 +17,14 @@ For more information, read the Wikis of this repository. Take a look at [PTGen.e
 
 ## Known Issues
 The project is quite large and the error handling isn't the best. Most common Discord .NET issues that I've been occurring are handled appropriately and keeps the bot alive. At the time, it isn't recommended to use the application for bots in huge Discord servers - still working on optimizing execution and multiple guild support (for now, it is best recommended having the bot working on 1-2 different servers.
+
+## Specs & References
+- **Discord.NET** (Core and everything else)
+- **Humanlights.System** (Proudly self written plugin which eases my development immensely)
+- **Megabot.Console** (Customly selfwritten command-based console with [gorgeous logging](https://i.imgur.com/g3vdTFx.png), imo)
+- **Megabot.Data** (Base classes and what's in this [picture](https://i.imgur.com/ashFhmI.png))
+- **Newtonsoft.JS-duh** (Yeah)
+- **Costura + Fody** (Embeds all project references in the Megabot.exe file, so the whole export is one bigger file)
 
 ## License
 I'm applying the GNU (General Public License) as described [here](https://raw.githubusercontent.com/raulssorban/Megabot/master/LICENSE).
