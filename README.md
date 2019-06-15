@@ -11,8 +11,7 @@ I love automating my development environment, so I decided to write something ve
 1. Add your bot application token, by using ``-token <your_app_token>`` in the console.
 You can do all this fast by creating a shortcut of the launcher and at the end of the Target, add the lines accordingly. (e.g ``Megabot.exe -token <token> -start <bot_id>``)
 
-For more informations, read the Wikis of this repository.
-[PTGen.exe](https://github.com/raulssorban/Megabot/wiki/PTGen.exe-(Plugin-Template-Generator)) 
+For more information, read the Wikis of this repository. Take a look at [PTGen.exe](https://github.com/raulssorban/Megabot/wiki/PTGen.exe-(Plugin-Template-Generator)), on [how to create bots](https://github.com/raulssorban/Megabot/wiki/Creating-Bots), [mods](https://github.com/raulssorban/Megabot/wiki/Creating-Mods)
 
 ## Known Issues
 The project is quite large and the error handling isn't the best. Most common Discord .NET issues that I've been occurring are handled appropriately and keeps the bot alive. At the time, it isn't recommended to use the application for bots in huge Discord servers - still working on optimizing execution and multiple guild support (for now, it is best recommended having the bot working on 1-2 different servers.
