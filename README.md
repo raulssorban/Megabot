@@ -2,6 +2,8 @@
 
 A very extensive Discord bot launcher and manager using Discord.NET
 
+Download it from [HERE](https://github.com/raulssorban/Megabot/releases).
+
 ## Idea
 I love automating my development environment, so I decided to write something very extensive and easy to create Bots and bot Mods and execute them very easily and fast. There is also support for game mods.
 
