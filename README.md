@@ -2,6 +2,8 @@
 
 A very extensive Discord bot launcher and manager using Discord.NET
 
+[![Build Status](http://167.86.121.152:8521/buildStatus/icon?style=flat-square&job=Megabot)](http://167.86.121.152:8521/job/Megabot/)
+
 Download it from [HERE](https://github.com/raulssorban/Megabot/releases).
 
 ## Idea
